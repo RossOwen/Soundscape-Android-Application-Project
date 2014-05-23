@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Soundscape</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_song">Now Playing</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="title_activity_settings">Settings</string>
+	
+	<string name="back">Back</string>
+	<string name="pref_backgroundColor">Preferred Background Color</string>
+	<string name="pref_backgroundColor_default">White</string>
+	
+	<string name="saved_background_color"></string>
+	
+	<string name="white">White</string>
+	<string name="blue">Blue</string>
+	<string name="yellow">Yellow</string>
+	<string name="gray">Gray</string>
+	<string name="purple">Purple</string>
+	<string name="green">Green</string>
+</resources>

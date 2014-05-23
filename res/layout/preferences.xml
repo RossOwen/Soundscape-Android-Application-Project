@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    
+	<ListPreference
+	    android:key="pref_backgroundColor"
+	    android:title="@string/pref_backgroundColor"
+	    android:dialogTitle="@string/pref_backgroundColor"
+	    android:entries="@array/pref_backgroundColors_entries"
+	    
+	    android:entryValues="@array/pref_backgroundColors_values"
+	    android:defaultValue="White"
+	 />
+</PreferenceScreen>
