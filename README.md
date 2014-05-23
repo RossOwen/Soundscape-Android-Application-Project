@@ -5,7 +5,8 @@ Music player created for May 2014
 
 This application was created by Ross Owen as a project for a class at Penn State.
 
-Size is over 200MB because it stores six songs as resources.
+The assets and bin folders were unable to be uploaded, but also unnecessary. 
+
 I DO NOT OWN THE RIGHTS TO ANY OF THESE SONGS
 ALL IMAGES AND MUSIC BELONG TO THEIR RESPECTIVE OWNERS
 
